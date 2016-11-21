@@ -1,0 +1,142 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:whc="http://www.oxygenxml.com/webhelp/components" xml:lang="en-us" lang="en-us">
+
+    <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <script>
+            /**
+             * If an old URL is given, redirect to the corresponding topic from the WebHelp Responsive
+             */
+            var actualLocation = window.location.href;
+            var newLocation;
+            if (actualLocation.indexOf('/#')!=-1) {
+                newLocation = actualLocation.replace(/\/#/g, "/");
+                window.location.replace(newLocation);
+            }
+            if (actualLocation.match(/\/index\.(.*)#/gi)!=null) {
+                newLocation = actualLocation.replace(/\/index\.(.*)#/gi, "/");
+                window.location.replace(newLocation);
+            }
+            
+            function debug(msg, object){
+                console.log(msg, object);
+            }
+            function executeQuery(){
+                $('#searchForm').submit();
+                return true;
+            }
+        </script>
+        
+	    <link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/css/webhelp_responsive_topic.css" />
+        
+        <!-- Latest compiled and minified Bootstrap CSS -->
+        <link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/bootstrap/css/bootstrap.min.css" />
+        
+        <!-- Bootstrap Optional theme -->
+        <link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/bootstrap/css/bootstrap-theme.min.css" />
+        
+        <!-- Changes and comments, as side-notes  -->
+        <link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/css/p-side-notes.css" />
+        
+        <!-- Template default styles  -->
+        <link rel="stylesheet" type="text/css" href="oxygen-webhelp/template/resources/css/wt_default.css" />
+
+        
+        <script type="text/javascript" src="oxygen-webhelp/resources/js/jquery-1.11.3.min.js"></script>
+        <script type="text/javascript" src="oxygen-webhelp/resources/localization/strings.js"></script>
+        <script type="text/javascript" src="oxygen-webhelp/resources/js/localization.js"></script>
+        <script type="text/javascript" src="oxygen-webhelp/resources/js/parseuri.js"></script>
+        <script type="text/javascript" src="oxygen-webhelp/resources/js/jquery.cookie.js"></script>
+        
+        <script type="text/javascript" src="oxygen-webhelp/resources/js/jquery.highlight-3.js"></script>
+        <!-- Skin resources -->
+        <link rel="stylesheet" type="text/css" href="oxygen-webhelp/template/variants/tree/classroomairbnb/skin.css" />
+        <!-- EXM-36950 - Expand the args.hdf parameter here -->
+        
+        
+    <title>AirClassroom</title></head>
+    <body class="wh_main_page">
+        <!-- EXM-36950 - Expand the args.hdr parameter here -->
+        
+        
+        
+<nav class="navbar navbar-default wh_header">
+    <div class="container">
+        <div class="wh_header_flex_container">
+            <div class="wh_logo_and_publication_title_container">
+                <div class="wh_logo_and_publication_title">
+                    
+                    <!--
+                            This component will be generated when the next parameters are specified in the transformation scenario:
+                            'webhelp.logo.image' and 'webhelp.logo.image.target.url'.
+                            See: http://oxygenxml.com/doc/versions/17.1/ug-editor/#topics/dita_webhelp_output.html.
+                    -->
+                    <a href="index.html" class=" wh_logo hidden-xs "></a>
+                    <div class=" wh_publication_title "><a href="index.html"><span class="title">AirClassroom</span></a></div>
+                    
+                </div>
+                <button type="button" data-target=".wh_top_menu_and_indexterms_link" data-toggle="collapse" class="navbar-toggle collapsed wh_toggle_button">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+
+            <div class="wh_top_menu_and_indexterms_link collapse navbar-collapse">
+                
+                <div class=" wh_top_menu "><ul><li class=" has-children "><span class="topicref"><a href="c-welcomepage.html">About</a></span><ul><li><span class="topicref"><a href="c-welcomepage.html" data-id="c-welcomepage.dita">Welcome to AirClassroom!</a></span></li><li><span class="topicref"><a href="c-about.html" data-id="c-about.dita">About the Shanks Computer Labs</a></span></li><li><span class="topicref"><a href="c-rentalrates.html" data-id="c-rentalrates.dita">Rates to Rent</a></span></li><li><span class="topicref"><a href="c-amenities.html" data-id="c-amenities.dita">Amenities</a></span></li><li><span class="topicref"><a href="c-catering.html" data-id="c-catering.dita">Catering</a></span></li><li><span class="topicref"><a href="t-emergency.html" data-id="t-emergency.dita">In Case of Emergency</a></span></li><li><span class="topicref"><a href="c-upcomingevents.html" data-id="c-upcomingevents.dita">Upcoming Events</a></span></li><li><span class="topicref"><a href="c-faq.html" data-id="c-faq.dita">FAQ</a></span></li><li><span class="topicref"><a href="c-contacts.html" data-id="c-contacts.dita">Contacts</a></span></li></ul></li><li class=" has-children "><span class="topicref"><a href="t-r2d2.html">For instructors</a></span><ul><li><span class="topicref"><a href="t-r2d2.html" data-id="t-r2d2.dita">How to Use the Electronic Projector</a></span></li><li><span class="topicref"><a href="t-projectorscreen.html" data-id="t-projectorscreen.dita">How to Lower or Raise the Projector Screen</a></span></li></ul></li><li class=" has-children "><span class="topicref"><a href="c-studentstations.html">For students</a></span><ul><li><span class="topicref"><a href="c-studentstations.html" data-id="concept_pfv_psd_1y">The Student Station</a></span></li></ul></li></ul></div>
+                
+                
+            </div>
+        </div>
+    </div>
+</nav>
+
+        <!-- Search form -->
+        <div class=" wh_search_input navbar-form wh_main_page_search " role="form">
+          
+          <div class="wh_welcome"></div>          
+          <form id="searchForm" method="get" action="search.html"><div><input type="search" placeholder="Search " class="wh_search_textfield" id="textToSearch" name="searchQuery" /><button type="submit" class="wh_search_button"><span>Search</span></button></div></form>
+          
+        </div>
+        <div class="wh_content_area ">
+            
+            <!-- This is the placeholder for the main page tiles. -->
+            <div class="container wh_content_flex_container">
+                <!-- This is the placeholder for the main page tiles. -->
+                
+                <!--
+                    This is the placeholder for the main page entries
+                    presented in a tree-like fashion.
+                -->
+                <div class=" wh_main_page_toc "><div class=" wh_main_page_toc_accordion_header "><span class="topicref"><a href="c-welcomepage.html">About</a></span></div><div class=" wh_main_page_toc_accordion_entries "><div class=" wh_main_page_toc_entry "><span class="topicref"><a href="c-welcomepage.html" data-id="c-welcomepage.dita">Welcome to AirClassroom!</a></span><div class=" wh_toc_shortdesc " href="c-welcomepage.html" data-id="c-welcomepage.dita">This is the main page for the Shanks Computer Labs available through   AirClassroom.
+</div></div><div class=" wh_main_page_toc_entry "><span class="topicref"><a href="c-about.html" data-id="c-about.dita">About the Shanks Computer Labs</a></span><div class=" wh_toc_shortdesc " href="c-about.html" data-id="c-about.dita">This describes the spaces that are for rent through this service.
+</div></div><div class=" wh_main_page_toc_entry "><span class="topicref"><a href="c-rentalrates.html" data-id="c-rentalrates.dita">Rates to Rent</a></span><div class=" wh_toc_shortdesc " href="c-rentalrates.html" data-id="c-rentalrates.dita">Explains how much to rent the computer labs.
+</div></div><div class=" wh_main_page_toc_entry "><span class="topicref"><a href="c-amenities.html" data-id="c-amenities.dita">Amenities</a></span><div class=" wh_toc_shortdesc " href="c-amenities.html" data-id="c-amenities.dita">We in the Virginia Tech English department are willing and able to provide the following   materials and amenities:
+</div></div><div class=" wh_main_page_toc_entry "><span class="topicref"><a href="c-catering.html" data-id="c-catering.dita">Catering</a></span><div class=" wh_toc_shortdesc " href="c-catering.html" data-id="c-catering.dita">Several dining establishments in Blacksburg offer catering services. Here are some reccomendations.
+</div></div><div class=" wh_main_page_toc_entry "><span class="topicref"><a href="t-emergency.html" data-id="t-emergency.dita">In Case of Emergency</a></span><div class=" wh_toc_shortdesc " href="t-emergency.html" data-id="t-emergency.dita">Before you come, please read this page so that you are prepared in case of an   emergency.
+</div></div><div class=" wh_main_page_toc_entry "><span class="topicref"><a href="c-upcomingevents.html" data-id="c-upcomingevents.dita">Upcoming Events</a></span><div class=" wh_toc_shortdesc " href="c-upcomingevents.html" data-id="c-upcomingevents.dita">Here is the schedule for Shanks and Virginia Tech as a whole for the next   month.
+</div></div><div class=" wh_main_page_toc_entry "><span class="topicref"><a href="c-faq.html" data-id="c-faq.dita">FAQ</a></span><div class=" wh_toc_shortdesc " href="c-faq.html" data-id="c-faq.dita">Some questions often asked by previous renters.
+</div></div><div class=" wh_main_page_toc_entry "><span class="topicref"><a href="c-contacts.html" data-id="c-contacts.dita">Contacts</a></span><div class=" wh_toc_shortdesc " href="c-contacts.html" data-id="c-contacts.dita">Here are a few key people who will be assisting you with your event at Shanks   Hall.
+</div></div></div><div class=" wh_main_page_toc_accordion_header "><span class="topicref"><a href="t-r2d2.html">For instructors</a></span></div><div class=" wh_main_page_toc_accordion_entries "><div class=" wh_main_page_toc_entry "><span class="topicref"><a href="t-r2d2.html" data-id="t-r2d2.dita">How to Use the Electronic Projector</a></span><div class=" wh_toc_shortdesc " href="t-r2d2.html" data-id="t-r2d2.dita">Both classrooms have an electronic projector-- a Samsung UF-S80T-- if you have papers         you want to show to the room, or any physical object.
+</div></div><div class=" wh_main_page_toc_entry "><span class="topicref"><a href="t-projectorscreen.html" data-id="t-projectorscreen.dita">How to Lower or Raise the Projector Screen</a></span><div class=" wh_toc_shortdesc " href="t-projectorscreen.html" data-id="t-projectorscreen.dita">For use in presentations
+</div></div></div><div class=" wh_main_page_toc_accordion_header "><span class="topicref"><a href="c-studentstations.html">For students</a></span></div><div class=" wh_main_page_toc_accordion_entries "><div class=" wh_main_page_toc_entry "><span class="topicref"><a href="c-studentstations.html" data-id="concept_pfv_psd_1y">The Student Station</a></span><div class=" wh_toc_shortdesc " href="c-studentstations.html" data-id="concept_pfv_psd_1y">A short description of how the student stations work
+</div></div></div></div>
+                
+            </div>
+        </div>
+        <nav class="navbar navbar-default wh_footer">
+  <div class=" footer-container text-center ">
+    WebHelp output generated by <a class="oxyFooter" href="http://www.oxygenxml.com" target="_blank"> &lt;oXygen/&gt; XML Author </a>
+  </div>
+</nav>
+
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="oxygen-webhelp/resources/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+        <script src="oxygen-webhelp/template/resources/js/wt_default.js" type="text/javascript"></script>
+        
+        
+    </body>
+</html>

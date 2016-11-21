@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="t-emergency.dita" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+ <title>In Case of Emergency</title>
+ <shortdesc>Before you come, please read this page so that you are prepared in case of an
+  emergency.</shortdesc>
+ <conbody>
+  <p><b>Building Emergency:</b></p>
+  <p>Both rooms are equipped with fire alarms. Should a fire alarm go off, please walk to the
+   nearest exit. If you are in Room 360, the long staircase in the middle of the building is the
+   quickest way out.</p>
+  <image href="Pictures/20161117_105550.jpg" id="image_f2s_spc_1y"/>
+  <p><i>Fire Alarm</i></p>
+  <p><b>Campus Emergency:</b></p>
+  <p>The LED time pieces in each room are also connected to a central system that can relay information. Should there be a campus-wide emergency, pay attention to the time piece for further information.</p>
+  <p><image href="Pictures/20161117_105531.jpg" id="image_ahc_bqc_1y"/><i>LED Time Piece</i></p>
+ </conbody>
+</concept>

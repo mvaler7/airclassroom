@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-install-skin">
+    <title>How to install the custom AirClassroom skin in Oxygen 18.1</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Locate the following folder in your DITA-OT directory <filepath>frameworks/dita/DITA-OT2.x/plugins/com.oxygenxml.webhelp/templates/dita/bootstrap/variants/</filepath></cmd>
+                <stepresult>In that folder, you will see some sub-folders corresponding to different variants for the same template. For instance, the default directories are tiles and tree. In each of these variants, you will find a folder for each of the skins (for example, the default skins and their corresponding directories are: flowers, green, light, mechano, orange, etc.)</stepresult>
+            </step>
+            <step><cmd>Double-click (or open) the folder named <filepath>tree</filepath></cmd></step>
+                   <step><cmd>Drag and drop the folder named <filepath>classroomairbnb</filepath> included in this folder you downloaded from Canvas</cmd></step>
+        </steps>
+        <result><p>Your new skin should now be included in the list of skins in the Templates tab of the transformation scenario.</p> <fig>
+            <title>Available transformation skins now showing our custom AirClassroom template</title>
+            <image href="images/transformation-skins.jpg" />
+        </fig></result> 
+    </taskbody>
+</task>

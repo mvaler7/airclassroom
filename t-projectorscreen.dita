@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="t-projectorscreen.dita">
+    <title>How to Lower or Raise the Projector Screen</title>
+    <shortdesc>For use in presentations</shortdesc>
+    <taskbody>
+        <context>
+            <p><ol>
+                    <li>Find the large black switch on the wall<p><image
+                                href="Pictures/20161117_105144a.jpg" id="image_mrz_hsd_1y"
+                        /></p></li>
+                    <li>Press the switch</li>
+                </ol></p>
+        </context>
+    </taskbody>
+</task>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Installing the AirClassroom template in Oxygen</title>
+ <topicref href="c-skins.dita" />
+ <topicref href="t-install-skin.dita" />
+</map>

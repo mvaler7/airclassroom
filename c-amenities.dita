@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="c-amenities.dita" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+ <title>Amenities</title>
+ <shortdesc>We in the Virginia Tech English department are willing and able to provide the following
+  materials and amenities:</shortdesc>
+ <conbody>
+  <p><ul>
+   <li><b>Extra staff:</b> Our English club is willing and able to provide any manual services required.</li>
+   <li><b>Hokie Gear:</b> Both rooms are fully stocked with Virginia Tech pens, notepads, and stressballs shaped like the Hokie bird.</li>
+   <li><b>Technical Support:</b>While we keep our labs up-to-date and perform regular matinence, sometimes things just go wrong. If anything should occur, contact us immediately and we will have someone there as soon as possible.</li>
+   <li><b>If you need any other specific equiptment, please inform us when you are making your reservation.</b></li>
+  </ul></p>
+ </conbody>
+</concept>

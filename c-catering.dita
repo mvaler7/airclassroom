@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="c-catering.dita" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+ <title>Catering</title>
+ <shortdesc>Several dining establishments in Blacksburg offer catering services. Here are some reccomendations.</shortdesc>
+ <conbody>
+  <p><b>McAllister's Deli</b></p>
+  <p>884 Prices Fork Rd</p>
+   <p>Blacksburg, VA 24060	</p>
+   <p>540-552-0695</p>
+   <p><xref href="http://www.mcalistersdeli.com/catering/" format="html"
+    scope="external"/></p>
+  
+  <p><b>Moe's Southwest Grill</b></p>
+  <p>239 North Main Street </p>
+    <p>Blacksburg, VA 24060</p>
+    <p>540-552-6220</p>
+    <p><xref href="http://www.moes.com/find-a-moes/virginia/blacksburg/575/" format="html"
+      scope="external"/></p>
+ 
+  <p><b>Personal Touch Catering</b></p>
+ 
+  <p>17 Owens Hall</p>
+    <p>Blacksburg, VA 24060</p>
+    <p>540-231-5827</p>
+    <p><xref href="http://www.catering.vt.edu/" format="html"
+     scope="external"/></p>
+
+  <p><b>Zaxby's</b></p>
+ <p>204 Turner St Nw</p>
+   <p>Blacksburg, VA 24060</p>
+   <p>540-552-0070</p>
+   <p><xref href="https://www.zaxbys.com/locations/va/blacksburg/204-turner-st-nw/" format="html"
+    scope="external"/></p>
+  
+ </conbody>
+</concept>

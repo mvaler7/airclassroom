@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="c-rentalrates.dita" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+ <title>Rates to Rent</title>
+ <shortdesc>Explains how much to rent the computer labs.</shortdesc>
+ <conbody>
+  <p>While Virginia Tech advertises its available spaces through AirClassroom, we have a dedicated staff for each department in charge of all on-campus reservations.</p>
+  <p><b>Rates:</b></p>
+  <p><ul>
+   <li><b>One weekday:</b>$35 per hour</li>
+   <li><b>One day (weekend):</b>$40 per hour</li>
+   <li><b>Entire Weekend:</b>$600</li>
+  </ul></p>
+  <p>See our FAQ and Contacts page for more information.</p>
+ </conbody>
+</concept>

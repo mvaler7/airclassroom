@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c-skins">
+ <title>Oxygen skins (or templates)</title>
+ <shortdesc>Oxygen uses "skins" or templates that combine HTML and CSS to customize the look of WebHelp transformations. We will use a skin I created for the AirClassroom project.</shortdesc>
+ <conbody>
+  <p>Oxygen's version of the DITA Open Toolkit comes with several customized templates or skins for WebHelp transformation. You can see them when you <cmdname>Edit</cmdname> or <cmdname>Duplicate</cmdname> a transformation scenario after clicking on the wrench and play button icon <image href="images/configure-transformation-icon.jpg" />.</p>
+  <p>For your AirClassroom project, you will use a skin I created, based on the Oxygen templates, to give our fake company a consistent look across all projects: Valerie's WebHelp will look just like Andrew's, and that could, if we needed to, allow us to combine and exchange topics without disturbing our users.</p>
+  <p>Before we use our custom skin, you need to <xref href="t-install-skin.dita#t-install-skin"
+    >install it inside the Open Toolkit folder that comes with Oxygen</xref>.</p>
+ </conbody>
+</concept>

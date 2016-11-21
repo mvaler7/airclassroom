@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="c-about.dita" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+ <title>About the Shanks Computer Labs</title>
+ <shortdesc>This describes the spaces that are for rent through this service.</shortdesc>
+ <conbody>
+  <p><b>About Shanks:</b></p>
+  <p>Shanks Hall is located on the "Upper Quad" of campus, at the heart of the University's original
+   site. Just across the green is Lane Hall, the oldest building on campus, and all around us are
+   dormitories for Virginia Tech's Corps of Cadets. Shanks is a converted office building that
+   houses two of Virginia Tech's departments-- Communications and English. Rooms 360 and 180 are
+   dedicated classroom spaces filled with Apple desktops, perfect for any level of user.</p>
+  <p><image href="Pictures/20161117_105149.jpg" id="image_a5y_vxd_1y"/><i>Students at work in Shanks
+    360</i></p>
+  <p><b>About Virginia Tech:</b></p>
+  <p>Virginia Polytechnic Institute and State University, most commonly known at Virginia Tech, is
+   located in Blacksburg, Virginia. Established in 1872 as part of President Lincoln's Land Grant
+   University system, Virginia Tech has had a long tradition of innovation and technical education.
+   Virginia Tech is a public university, and attracts students from all over the world.</p>
+ </conbody>
+</concept>

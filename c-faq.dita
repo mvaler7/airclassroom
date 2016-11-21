@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="c-faq.dita" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+ <title>FAQ</title>
+ <shortdesc>Some questions often asked by previous renters.</shortdesc>
+ <conbody>
+  <p><b>Q: Where is Shanks Hall?</b></p>
+  <p>A: Shanks Hall is across the street from McBryde, behind Major Williams.</p>
+  <p><b>Q: Do we have to use the computers in the labs?</b></p>
+  <p>A: Not at all! The labs are multipurpose working spaces, intended to be a classroom for all types of English classes.</p>
+  <p><b>Q: Is there anywhere that people could go for a break?</b></p>
+  <p>A: Just outside the doors to the labs is the Shanks Atrium, with tables, seats, and charging stations.</p>
+  <p><b>Q: Why is there an ice cream machine in Room 360?</b></p>
+  <p>A: These rooms are also used by univeristy classes. That is part of an ongoing project for one of them.</p>
+  <p></p>
+  <p>More questions? Check out our Contacts page for direct service.</p>
+ </conbody>
+</concept>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="c-upcomingevents.dita" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+ <title>Upcoming Events</title>
+ <shortdesc>Here is the schedule for Shanks and Virginia Tech as a whole for the next
+  month.</shortdesc>
+ <conbody>
+  <p></p>
+  <table id="table_izg_grc_1y">
+   <tgroup cols="3">
+    <colspec colnum="1" colname="col1"/>
+    <colspec colnum="2" colname="col2"/>
+    <colspec colnum="3" colname="col3"/>
+    <tbody>
+     <row>
+      <entry>Wednesday</entry>
+      <entry>Dec 7</entry>
+      <entry>Classes End</entry>
+     </row>
+     <row>
+      <entry>Thursday</entry>
+      <entry>Dec 8</entry>
+      <entry>Reading Day</entry>
+     </row>
+     <row>
+      <entry>Friday</entry>
+      <entry>Dec 9</entry>
+      <entry>Exams Begin</entry>
+     </row>
+     <row>
+      <entry>Thursday</entry>
+      <entry>Dec 15</entry>
+      <entry>Exams End</entry>
+     </row>
+     <row>
+      <entry>Friday</entry>
+      <entry>Dec 16</entry>
+      <entry>University and Graduate School Commencement Ceremonies</entry>
+     </row>
+     <row>
+      <entry>Monday</entry>
+      <entry>Dec 26</entry>
+      <entry>Winter Semester Begins</entry>
+     </row>
+    </tbody>
+   </tgroup>
+  </table>
+ </conbody>
+</concept>

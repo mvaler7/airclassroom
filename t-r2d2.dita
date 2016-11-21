@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="t-r2d2.dita">
+    <title>How to Use the Electronic Projector</title>
+    <shortdesc>Both classrooms have an electronic projector-- a Samsung UF-S80T-- if you have papers
+        you want to show to the room, or any physical object.<image
+            href="Pictures/20161117_105132.jpg" id="image_anh_331_1y"/></shortdesc>
+    <taskbody>
+        <context>
+            <p><image href="Pictures/20161117_105119.jpg" id="image_gkm_l31_1y"/></p>
+            <p><ol>
+                <li>Turn on the projector.</li>
+                <li>Turn on the lamp by pressing the button labeled 'LAMP'</li>
+                <li>On the teacher station, search for 'uf-s80t' in the Finder</li>
+                <li>Open the app</li>
+                <li>For fullscreen, click on the black icon with the white F in the upper-left hand corner</li>
+            </ol></p>
+        </context>
+    </taskbody>
+</task>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="c-contacts.dita" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+ <title>Contacts</title>
+ <shortdesc>Here are a few key people who will be assisting you with your event at Shanks
+  Hall.</shortdesc>
+ <conbody>
+  <p><b>Prof. Carlos Evia</b></p>
+  <p>309 Shanks Hall</p>
+  <p>181 Turner St. NW</p>
+  <p>Blacksburg, VA 24061</p>
+  <p>540-200-8201</p>
+  <p><xref href="carlos.evia@vt.edu" format="html"
+   scope="external"/></p>
+  <p><b>Sarah McCliment</b></p>
+  <p><xref href="msarah14@vt.edu" format="html" scope="external"/></p>
+ </conbody>
+</concept>

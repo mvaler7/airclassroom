@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="concept_pfv_psd_1y" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+ <title>The Student Station</title>
+ <shortdesc>A short description of how the student stations work</shortdesc>
+ <conbody>
+  <p><image href="Pictures/20161117_112927.jpg" id="image_icp_3xd_1y"/><i>A student station in
+    Shanks 360</i></p>
+  <p>Both rooms are equipped with several Macintosh desktops. These desktops run both MacOS and
+   Microsoft. The computers will require a log-in, which will be distributed to you the day you
+   arrive. Should you need to save anything, please use a flash drive or a cloud service.</p>
+  <p><image href="Pictures/20161117_112937.jpg" id="image_wxd_mxd_1y"/><i>Flash drives can be
+    inserted behind the moniter</i></p>
+ </conbody>
+</concept>

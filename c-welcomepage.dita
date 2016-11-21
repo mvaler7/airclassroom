@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="c-welcomepage.dita" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+ <title>Welcome to AirClassroom!</title>
+ <shortdesc>This is the main page for the Shanks Computer Labs available through
+  AirClassroom.</shortdesc>
+ <conbody>
+  <p/>
+  <p>Welcome and thank you for choosing the Shanks Computer Labs for your event! We here at Virginia
+   Tech are delighted that you have come. Our facilities are among the best in the world, from our
+   labratories to our lecture halls, and we can't wait for you to join us!</p>
+  <p><image href="Pictures/1456233516219.jpg" id="image_k24_l51_1y"/></p>
+ </conbody>
+</concept>
